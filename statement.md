@@ -4,12 +4,14 @@
 -[ ] Commande
 -[ ] Composite
 -[x] Visiteur
+-[ ] J'ai rien suivi a la presentation
 
 ?[Les patrons de conception ont été formellement reconnus par ?]
 -[ ] Tim Berners-Lee
 -[x] Gang of Four - GoF
 -[ ] Christophe Colomb
 -[ ] Gang of Two - GoT
+-[ ] Nabilla Vergara
 
 ?[Un design pattern contient généralement : (plusieurs réponses)]
 -[x] Nom
@@ -21,30 +23,31 @@
 -[ ] Structuraux 
 -[ ] Créateurs
 -[x] Comportementaux 
+-[ ] Simpson
 
 ?[Quel est l'avantage principal de ce patron de conception]
 -[x] L'ajout de nouveaux comportements ou de nouvelles fonctionnalités
 -[ ] L'ajout de nouveaux attributs
 -[ ] Suppression de projet
 
-?[Sur un diagramme type la classe Visitor est une :]
+?[le module Visitor est une :]
 -[ ] Classe concrète
 -[ ] Classe abstraite
 -[x] Interface
+-[ ] un attribut
 
-?[Si une methode peut etre visitée alors elle a un methode publique :]
+?[Si une classe peut etre visitée alors elle a un methode publique :]
 -[x] accept
 -[ ] visit
 -[ ] visiter
+-[ ] visite moi stp
 
-?[Le design pattern a quels principes de SOLID ? (plusieurs réponses)]
+?[Quels principes SOLID ce pattern ? (plusieurs réponses)]
 -[x] Srp (Responsabilité unique)
 -[x] Ocp (Ouvert Fermé)
--[ ] Lsp (Substitution de Liskov)
--[ ] Isp (Ségrégation de l'interface)
+-[x] Lsp (Substitution de Liskov)
+-[x] Isp (Ségrégation de l'interface)
 -[x] Dip (Inversion de dépendences)
-
-
-
+-[ ] Eip (Embellissement du code)
 
 ```
