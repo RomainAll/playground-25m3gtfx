@@ -6,7 +6,6 @@
 -[x] Visiteur
 -[ ] Façade
 
-
 ?[Les patrons de conception ont été formellement reconnus par ?]
 -[ ] Tim Berners-Lee
 -[x] Gang of Four - GoF
