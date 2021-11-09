@@ -22,8 +22,8 @@
 -[ ] Suppression de projet
 
 ?[Si une methode peut etre visiter alors elle a un methode publique :]
--[x] accept
 -[ ] accepter
+-[x] accept
 -[ ] visit
 -[ ] visiter
 
@@ -34,6 +34,10 @@
 -[ ] Isp (Ségrégation de l'interface)
 -[ ] Dip (Inversion de dépendences)
 
+?[Sur un diagramme type la classe Visitor est :]
+-[ ] Classe concrete
+-[ ] classe abstraite
+-[x] Interface
 
 
 
