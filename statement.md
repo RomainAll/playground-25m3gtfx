@@ -42,7 +42,7 @@
 -[x] Ocp (Ouvert Fermé)
 -[ ] Lsp (Substitution de Liskov)
 -[ ] Isp (Ségrégation de l'interface)
--[ ] Dip (Inversion de dépendences)
+-[x] Dip (Inversion de dépendences)
 
 
 
