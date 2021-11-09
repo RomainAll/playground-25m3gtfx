@@ -22,7 +22,7 @@
 -[ ] Créateurs
 -[x] Comportementaux 
 
-?[Quel est l'avantage principale de ce patron de conception]
+?[Quel est l'avantage principal de ce patron de conception]
 -[x] L'ajout de nouveaux comportements ou de nouvelles fonctionnalités
 -[ ] L'ajout de nouveaux attributs
 -[ ] Suppression de projet
