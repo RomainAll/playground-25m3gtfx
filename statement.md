@@ -29,6 +29,7 @@
 -[x] L'ajout de nouveaux comportements ou de nouvelles fonctionnalités
 -[ ] L'ajout de nouveaux attributs
 -[ ] Suppression de projet
+-[ ] Briller en société
 
 ?[le module Visitor est une :]
 -[ ] Classe concrète
