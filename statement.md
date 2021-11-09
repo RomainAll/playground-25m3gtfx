@@ -32,7 +32,7 @@
 -[ ] Classe abstraite
 -[x] Interface
 
-?[Si une methode peut etre visiter alors elle a un methode publique :]
+?[Si une methode peut etre visitée alors elle a un methode publique :]
 -[x] accept
 -[ ] visit
 -[ ] visiter
