@@ -12,9 +12,9 @@
 -[ ] Gang of Two - GoT
 
 ?[Un design pattern contient généralement : (plusieurs réponses)]
--[x] Une intention : une description brève du problème et sa solution
--[x] Une motivation : une description plus détaillée du problème et sa solution
--[x] Une structure des classes : une représentation des différentes parties du pattern
+-[x] Nom
+-[x] Description du problème à résoudre
+-[x] Description de la solution
 -[ ] Une bonne prise de tête
 
 ?[De quel famille est notre design pattern]
