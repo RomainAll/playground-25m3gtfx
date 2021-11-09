@@ -33,7 +33,6 @@
 -[x] Interface
 
 ?[Si une methode peut etre visiter alors elle a un methode publique :]
--[ ] accepter
 -[x] accept
 -[ ] visit
 -[ ] visiter
