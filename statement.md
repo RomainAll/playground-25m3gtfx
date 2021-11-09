@@ -5,7 +5,7 @@
 -[ ] Composite
 -[x] Visiteur
 -[ ] Façade
-```
+
 
 ?[De quel design pattern a t'on parlé ?]
 -[ ] Commande
