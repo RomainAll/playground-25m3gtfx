@@ -1,8 +1,15 @@
 # Bienvenue sur le quiz du design pattern Visiteur!
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[De quel design pattern a t'on parlé ?]
+-[ ] Commande
+-[ ] Composite
+-[x] Visiteur
+-[ ] Façade
+```
+
+?[De quel design pattern a t'on parlé ?]
+-[ ] Commande
+-[ ] Composite
+-[x] Visiteur
+-[ ] Façade
 ```
