@@ -11,15 +11,26 @@
 -[ ] Christophe Colomb
 -[ ] Gang of Two - GoT
 
+?[Un design pattern contient généralement : (plusieurs réponses)]
+-[x] Une intention : une description brève du problème et sa solution
+-[x] Une motivation : une description plus détaillée du problème et sa solution
+-[x] Une structure des classes : une représentation des différentes parties du pattern
+-[ ] Une bonne prise de tête
+
 ?[De quel famille est notre design pattern]
 -[ ] Structuraux 
 -[ ] Créateurs
 -[x] Comportementaux 
 
 ?[Quel est l'avantage principale de ce patron de conception]
--[x] L'ajout de nouveaux comportements ou de fonctionnalitées 
+-[x] L'ajout de nouveaux comportements ou de nouvelles fonctionnalités
 -[ ] L'ajout de nouveaux attributs
 -[ ] Suppression de projet
+
+?[Sur un diagramme type la classe Visitor est une :]
+-[ ] Classe concrète
+-[ ] Classe abstraite
+-[x] Interface
 
 ?[Si une methode peut etre visiter alors elle a un methode publique :]
 -[ ] accepter
@@ -34,10 +45,6 @@
 -[ ] Isp (Ségrégation de l'interface)
 -[ ] Dip (Inversion de dépendences)
 
-?[Sur un diagramme type la classe Visitor est :]
--[ ] Classe concrete
--[ ] classe abstraite
--[x] Interface
 
 
 
